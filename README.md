@@ -1,7 +1,6 @@
 ### Hi, my name is Sage Hahn
 - 🔭 I'm a Data Scientist / Developer currently working with the Garavan Neuroimaging lab.
 - ✨ Check out some of my projects pinned below, or on my [website](http://sagehahn.com).
-- 👯 I’m currently looking for a job outside of academia, anything from Data Science to Software Engineering!
 
 
 <!--
