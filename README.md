@@ -1,5 +1,5 @@
 ### Hi, my name is Sage Hahn
-- 🔭 I'm a Data Scientist / Developer currently working with the Garavan Neuroimaging lab.
+- 🔭 I'm a Data Scientist / Developer currently working at [DeepHealth](https://deep.health/).
 - ✨ Check out some of my projects pinned below, or on my [website](http://sagehahn.com).
 
 
